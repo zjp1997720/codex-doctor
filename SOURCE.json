@@ -21,6 +21,6 @@
   "payload_digest": "e3eef0f2f7954966202c555c759bb674d7ac203cb473b64fb3e0816c4a5d79f0",
   "schema_version": "1.0.0",
   "skill": "codex-doctor",
-  "source_commit": "33bbb003cb967ae75f9ef372438d2e6744ca278f",
+  "source_commit": "26cba9e100b37a2efe0fa161bd394db46cee5328",
   "version": "1.0.0"
 }
