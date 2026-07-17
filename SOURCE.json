@@ -1,13 +1,14 @@
 {
   "canonical_repository": "zjp1997720/zhijian-skills",
-  "export_digest": "90578b3b9713ba8eab38923c3c1a1f433351828fa87caa23981431c1299f4048",
+  "export_digest": "ad7ba1e7fc4ab189a003bddc49b78938275837c2763397204816129d134244a1",
   "files": {
     ".github/workflows/redirect-contributions.yml": "07df186b56b8ad5f799ea585601d1fbec345f5cb7b3626b0755a99c2fb802502",
-    "CHANGELOG.md": "4d14b8b8273ce185595f89b8fe2cf028b4b76c2ba648194fc9fc208d7212773d",
-    "CONTRIBUTING.md": "c2e5f5ea8a62d4958cab579d670ff4a2614768ec4edfbbd04ef347bf71bdc402",
+    "CHANGELOG.md": "1026c1bdfddee33dc4c69e0b77b0530fc388ca4916052f7fe725126e7f12156d",
+    "CONTRIBUTING.md": "1419405f16cb6eba0f34af1642087cf75dd8b09903e25d3a414ca8634fc9308e",
     "LICENSE": "4c132f6df8bf3720921492fb26412abc98bf51eec6acbe89dbf95c8b09b8d340",
-    "README.md": "79e9834e26fe2f9b9970d95ea7f2862b693b36f894629548e1029ca53af30d6f",
-    "README.zh-CN.md": "2dfc3d2cbd7a8d759b366bdaec9cb386c5e61916383bcba203d7274258d43d6d",
+    "README.md": "37a0ada75ca0e4bb86709124b945ca615984a126e102b4f6bd39010c9c041984",
+    "README.zh-CN.md": "47280229774c8b9173cc08235edc8cbc64f736b7314179fc76f9439fbf43533c",
+    "assets/readme/hero.svg": "94bc8e1c677de66655a72f98202642767baa48c0228d976a26df17edcb0f114d",
     "skills/codex-doctor/.gitignore": "4274371ce855cb790ab436bc7d3b86f6668f6e84a2d47556d05852269be576e8",
     "skills/codex-doctor/LICENSE": "4c132f6df8bf3720921492fb26412abc98bf51eec6acbe89dbf95c8b09b8d340",
     "skills/codex-doctor/SKILL.md": "0f3ecdf0d600147fa8787881d0b992d7b845a93bfd1436efb9ac996a2777f8e5",
@@ -21,6 +22,6 @@
   "payload_digest": "e3eef0f2f7954966202c555c759bb674d7ac203cb473b64fb3e0816c4a5d79f0",
   "schema_version": "1.0.0",
   "skill": "codex-doctor",
-  "source_commit": "e69c5daca7563c75fe5a44a6bf3445163f03b116",
-  "version": "1.0.0"
+  "source_commit": "30423a79ac7890bca3a9cc8592c241e3a9d91e69",
+  "version": "1.0.1"
 }
