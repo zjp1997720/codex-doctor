@@ -1,0 +1,26 @@
+{
+  "canonical_repository": "zjp1997720/zhijian-skills",
+  "export_digest": "90578b3b9713ba8eab38923c3c1a1f433351828fa87caa23981431c1299f4048",
+  "files": {
+    ".github/workflows/redirect-contributions.yml": "07df186b56b8ad5f799ea585601d1fbec345f5cb7b3626b0755a99c2fb802502",
+    "CHANGELOG.md": "4d14b8b8273ce185595f89b8fe2cf028b4b76c2ba648194fc9fc208d7212773d",
+    "CONTRIBUTING.md": "c2e5f5ea8a62d4958cab579d670ff4a2614768ec4edfbbd04ef347bf71bdc402",
+    "LICENSE": "4c132f6df8bf3720921492fb26412abc98bf51eec6acbe89dbf95c8b09b8d340",
+    "README.md": "79e9834e26fe2f9b9970d95ea7f2862b693b36f894629548e1029ca53af30d6f",
+    "README.zh-CN.md": "2dfc3d2cbd7a8d759b366bdaec9cb386c5e61916383bcba203d7274258d43d6d",
+    "skills/codex-doctor/.gitignore": "4274371ce855cb790ab436bc7d3b86f6668f6e84a2d47556d05852269be576e8",
+    "skills/codex-doctor/LICENSE": "4c132f6df8bf3720921492fb26412abc98bf51eec6acbe89dbf95c8b09b8d340",
+    "skills/codex-doctor/SKILL.md": "0f3ecdf0d600147fa8787881d0b992d7b845a93bfd1436efb9ac996a2777f8e5",
+    "skills/codex-doctor/agents/openai.yaml": "a61d5805601ec75dfd735a616299dedeb28394333b497ba97e86ee587d5d45c0",
+    "skills/codex-doctor/evals/evals.json": "31c9c7ecf642e17d3b5c3dc6dacbaff660fe2b338b59781ab880a8ce99727e58",
+    "skills/codex-doctor/references/checks-and-repair-policy.md": "dd80612f050d28c6e4a9a4615ba9e6e0121aad800edda8d0ed979b74709a49ca",
+    "skills/codex-doctor/scripts/scan_workspace.py": "128b4bb6b315dbc4ef0544953a50fbf60d52d0478d908390412039150de993ee",
+    "skills/codex-doctor/tests/test_scan_workspace.py": "d353ca764df29808e7148f4113a218fa5ecc460131e2ef128625c2c105bb1559"
+  },
+  "generated": true,
+  "payload_digest": "e3eef0f2f7954966202c555c759bb674d7ac203cb473b64fb3e0816c4a5d79f0",
+  "schema_version": "1.0.0",
+  "skill": "codex-doctor",
+  "source_commit": "33bbb003cb967ae75f9ef372438d2e6744ca278f",
+  "version": "1.0.0"
+}
